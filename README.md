@@ -48,7 +48,6 @@ where:
 - `frequency` is switching frequency in hertz
 - `switching_activity` is the probability of switching per clock cycle
 
-## Project Structure
 
 ## Project Structure
 
