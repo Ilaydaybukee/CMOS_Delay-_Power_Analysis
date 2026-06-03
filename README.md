@@ -50,19 +50,30 @@ where:
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 cmos-delay-power-analysis/
+  circuits/
+    cmos_inverter.png
+    cmos_nand2.png
+    cmos_nor2.png
   src/
     gates.py
     delay_model.py
     power_model.py
     plot_results.py
+    draw_cmos_circuits.py
   plots/
-  data/
+    fanout_vs_delay.png
+    vdd_vs_power.png
+    frequency_vs_power.png
+    capacitance_vs_power.png
   reports/
+    project_report.md
+  data/
   README.md
   requirements.txt
-```
 
 ## How To Run
 
