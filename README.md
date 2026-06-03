@@ -138,6 +138,21 @@ The capacitance-power plot also shows a linear increase. A larger load capacitan
 ![Load Capacitance vs Dynamic Power](plots/capacitance_vs_power.png)
 
 
-
+cmos-delay-power-analysis/
+  circuits/
+    cmos_inverter.png
+    cmos_nand2.png
+    cmos_nor2.png
+  src/
+    gates.py
+    delay_model.py
+    power_model.py
+    plot_results.py
+    draw_cmos_circuits.py
+  plots/
+  data/
+  reports/
+  README.md
+  requirements.txt
 
 
