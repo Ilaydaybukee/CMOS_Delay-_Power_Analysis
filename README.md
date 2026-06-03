@@ -51,18 +51,14 @@ where:
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 cmos-delay-power-analysis/
   circuits/
     cmos_inverter.png
     cmos_nand2.png
     cmos_nor2.png
-  src/
-    gates.py
-    delay_model.py
-    power_model.py
-    plot_results.py
-    draw_cmos_circuits.py
   plots/
     fanout_vs_delay.png
     vdd_vs_power.png
@@ -70,19 +66,15 @@ cmos-delay-power-analysis/
     capacitance_vs_power.png
   reports/
     project_report.md
+  src/
+    gates.py
+    delay_model.py
+    power_model.py
+    plot_results.py
+    draw_cmos_circuits.py
   data/
   README.md
   requirements.txt
-
-## How To Run
-
-1. Install Python 3.
-
-2. Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
 
 3. Generate the plots:
 
