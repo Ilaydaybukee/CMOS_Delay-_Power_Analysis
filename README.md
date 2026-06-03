@@ -106,3 +106,38 @@ The frequency-power plot shows a linear increase. As switching frequency increas
 
 ### Load Capacitance vs Dynamic Power
 The capacitance-power plot also shows a linear increase. A larger load capacitance requires more energy to switch, which increases the dynamic power.
+
+## Project Outputs
+
+### Static CMOS Inverter
+
+![Static CMOS Inverter](circuits/cmos_inverter.png)
+
+### Static CMOS NAND2
+
+![Static CMOS NAND2](circuits/cmos_nand2.png)
+
+### Static CMOS NOR2
+
+![Static CMOS NOR2](circuits/cmos_nor2.png)
+
+### Fanout vs Normalized Delay
+
+![Fanout vs Normalized Delay](plots/fanout_vs_delay.png)
+
+### VDD vs Dynamic Power
+
+![VDD vs Dynamic Power](plots/vdd_vs_power.png)
+
+### Frequency vs Dynamic Power
+
+![Frequency vs Dynamic Power](plots/frequency_vs_power.png)
+
+### Load Capacitance vs Dynamic Power
+
+![Load Capacitance vs Dynamic Power](plots/capacitance_vs_power.png)
+
+
+
+
+
