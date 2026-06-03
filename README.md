@@ -75,6 +75,7 @@ cmos-delay-power-analysis/
   data/
   README.md
   requirements.txt
+```
 
 3. Generate the plots:
 
